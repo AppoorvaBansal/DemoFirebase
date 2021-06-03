@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915543184603",
+    "project_id": "demof-56f64",
+    "storage_bucket": "demof-56f64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915543184603:android:2f4830cb183bdae81b28fe",
+        "android_client_info": {
+          "package_name": "com.example.demofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915543184603-ebu3q6v8qv0u1v3cv60al8jchju9qfi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDct8BQK0gY1hswqmE_2K3AFkejITb6224"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915543184603-ebu3q6v8qv0u1v3cv60al8jchju9qfi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
